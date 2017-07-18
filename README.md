@@ -5,5 +5,6 @@ Javascript는 단순히 __html에서 모자른 기능들을 보완__ 하고자 �
 <br/><br/>
 ***
 <p align=center> :star: 틀린 부분은 지적해주세요! :star:  
-<p align=center> I'm waiting for your feedback!
+<p align=center> I'm waiting for your feedback!  
+
 ***  
